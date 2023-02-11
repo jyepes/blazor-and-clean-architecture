@@ -1,0 +1,7 @@
+﻿main {
+    display: flex;
+    height: 100%;
+    z-index: 1;
+    background-color: white;    
+    padding-top:5rem;
+}
